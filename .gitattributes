@@ -1,0 +1,8 @@
+* text=auto
+*.cpp text
+*.h text
+*.ino text
+*.py text
+*.html text
+*.json text
+*.txt text
